@@ -109,8 +109,29 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+T FLIP FLOP :
+
+![Screenshot 2024-01-03 030637](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/54fd1c68-7024-4a98-9944-ff6ac904b445)
+
+D FLIP FLOP:
+
+![Screenshot 2024-01-03 030644](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/98b92c34-aa66-4797-a757-cfee72483758)
+
+SR FLIP FLOP:
+
+![Screenshot 2024-01-03 030652](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/5e846432-ebf7-4be4-93c6-3bcea5295182)
+
+JK FLIP FLOP:
+
+![Screenshot 2024-01-03 030658](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/5fd763a3-8427-470a-aa09-7928c64789c4)
+
+
+
+
+
+
+Developed by: Shalini venkatesulu
+RegisterNumber:  23001992 
 */
 
 
@@ -120,21 +141,30 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+![Screenshot 2024-01-03 030704](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/dc7e9a4f-3900-4d6e-bc29-eefaa91226a4)
+
+
+![Screenshot 2024-01-03 030717](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/c0d08b6e-74d2-4b86-aca6-8fc3c7d091b8)
+
+
+![Screenshot 2024-01-03 030726](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/8f081a68-bc10-48da-9a4f-f4f1a2782860)
+
+
+![Screenshot 2024-01-03 030735](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/c0d462ae-5a96-4f4f-a3ef-fa83fb00c7f0)
 
 
 
+##OUTPUT 
+
+![Screenshot 2024-01-03 030746](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/82468483-2d79-4ace-86e0-3b280348a3f9)
 
 
-
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
+![Screenshot 2024-01-03 030753](https://github.com/shalini170/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151901983/81efd9e0-3b43-4a66-a1bf-72b81bf3aa9e)
 
 
 
 
 
 ### RESULTS 
+
+By this way we have verified the truth table of JK and SR using veriog
